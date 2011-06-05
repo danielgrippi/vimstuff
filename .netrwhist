@@ -1,4 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
-let g:netrw_dirhist_1='/Users/danielgrippi/work/diaspora/app/models'
-let g:netrw_dirhist_2='/Users/danielgrippi/.rvm/gems/ree-1.8.7-2011.03@diaspora/gems/oauth2-provider-0.0.16'
